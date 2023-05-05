@@ -31,5 +31,4 @@ bash moc_wrapper
 
 ## In Use ##
 
-![Video](PXL_20230505_123953335.mp4)
 ![Img](PXL_20230505_124147575.jpg)
