@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mocp -S
+python3 mocp_status_lcd.py &
+python3 mocp_ir_daemon.py &
